@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontSize": 30,
+        "textAlign": "center",
+      }
+    }
+  >
+    40.47
+    °
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontSize": 30,
+        "textAlign": "center",
+      }
+    }
+  >
+    Mostly Cloudy
+  </Text>
+  <Text
+    onPress={[Function]}
+    style={
+      Object {
+        "color": "#f25f4c",
+        "textAlign": "center",
+      }
+    }
+  >
+    Powered by Dark Sky
+  </Text>
+</View>
+`;
