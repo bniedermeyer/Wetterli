@@ -5,5 +5,6 @@ See [Wetterli Backend](https://github.com/bniedermeyer/wetterli-backend) for fun
 
 ## Tech Used
 - React Native  
-- Jest  
+- Expo  
+- Jest/Enzyme  
 - Dark Sky API
